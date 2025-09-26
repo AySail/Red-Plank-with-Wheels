@@ -48,7 +48,7 @@ Made with ❤️ using Three.js — perfect for learning and expanding your 3D J
 
 ### License
 
-This project is open source under the [MIT License](LICENSE).
+This project is open source under the [public doamin](LICENSE).
 
 ---
 
